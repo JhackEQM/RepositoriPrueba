@@ -11,6 +11,6 @@
       hibernate:
         ddl-auto: update
         database-platform: org-hibernate.dialect.MySQLDialect
-      cloud:
+     cloud:
        config:
          uri: http://localhost:8860
